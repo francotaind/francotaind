@@ -1,6 +1,6 @@
  
-### Hi there 👋, my name is Francota
-#### I am a web developer
+Hi there 👋, my name is Francota
+ I am a web developer
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
